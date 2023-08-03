@@ -1,0 +1,1 @@
+ALTER TABLE dockovpn.users ADD last_session varchar(100) NULL AFTER auth_method;
